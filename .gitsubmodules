@@ -1,0 +1,8 @@
+[submodule "assets"]
+	path = assets
+	url = https://github.com/leto-8/assets
+[submodule "models"]
+	path = models
+	url = https://github.com/leto-8/models
+
+
