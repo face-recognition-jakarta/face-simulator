@@ -50,7 +50,7 @@ async function D(a) {
 }
 var g = {
         cacheSensitivity: 0,
-        modelBasePath: "../../../models",
+        modelBasePath: "../../leto-8/models",
         filter: {
             enabled: !0,
             equalization: !0
